@@ -12,3 +12,25 @@ https://www.youtube.com/watch?v=kvJf8s18Vr4
 git add *  
 git commit -m "update readme.md"  
 git push    
+
+
+### Use Codellama-70B to run copilot prompt inside the book  
+prompt_used_in_book.txt  
+
+
+### To run and debug python function in interactive mode at the terminal:  
+type python in the terminal  
+\>>> import function1  
+\>>> function1.best_word(['zap', 'pack', 'quack'])   
+
+Once you’ve imported a module for the first time, you won’t be able to import it again using another import statement. If you want to reload the module and run it once again, then you can use the reload() function, which forces the interpreter to import the module again:    
+
+\>>> import hello  
+Hello World!  
+
+\>>> import importlib  
+\>>> importlib.reload(hello)  
+Hello World!  
+
+https://realpython.com/run-python-scripts/#using-the-python-command  
+https://stackoverflow.com/questions/46996982/how-to-import-all-defined-functions-from-python-script-one-into-python-script-tw  
