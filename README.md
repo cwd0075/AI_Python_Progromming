@@ -31,6 +31,7 @@ Hello World!
 \>>> import importlib  
 \>>> importlib.reload(hello)  
 Hello World!  
-
+  
+How to import function reference:     
 https://realpython.com/run-python-scripts/#using-the-python-command  
 https://stackoverflow.com/questions/46996982/how-to-import-all-defined-functions-from-python-script-one-into-python-script-tw  
