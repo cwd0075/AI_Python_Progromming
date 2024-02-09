@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=kvJf8s18Vr4
 
 
 
-To git commit all changes in the Codespaces   
+### To git commit all changes in the Codespaces:   
 git add *  
 git commit -m "update readme.md"  
 git push    
